@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1539673932 source:e:\geii_1\info\c\pendu_cwin32\configpartie.c
+	<tchar.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1541361410 source:e:\geii_1\info\c\pendu_cwin32\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"main.h"
+
+1539774796 e:\geii_1\info\c\pendu_cwin32\main.h
+
